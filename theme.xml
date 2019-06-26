@@ -53,7 +53,7 @@ version         1.0
       <helpsystem name="help">
          <fontPath>./_inc/fonts/Digital_tech.otf</fontPath>
          <fontSize>0.019</fontSize>     
-         <pos>0.3 0.97</pos>      
+         <pos>0.34 0.97</pos>      
          <textColor>ffffff</textColor>
          <iconColor>ffffff</iconColor>
       </helpsystem>
